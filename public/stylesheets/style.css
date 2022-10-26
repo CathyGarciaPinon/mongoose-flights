@@ -1,8 +1,16 @@
+* {
+  box-sizing: border-box;
+  font-family: Helvetica;
+  color: rgb(83, 40, 58);
+}
+
+
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 20px "font-family: 'Cormorant Garamond', serif";
 }
 
 a {
-  color: #00B7FF;
+  color: rgb(58, 107, 111);
 }
+
